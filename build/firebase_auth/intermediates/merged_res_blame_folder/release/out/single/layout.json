@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "F:\\news\\news_app_flutter\\build\\firebase_auth\\intermediates\\res\\merged\\release\\layout\\notification_action.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\c6238d51cba38f08bc709d97c8f21b54\\core-1.6.0\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "F:\\news\\news_app_flutter\\build\\firebase_auth\\intermediates\\res\\merged\\release\\layout\\browser_actions_context_menu_page.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\5d66c0a4ab616e8fc3efefaad7f9748d\\browser-1.4.0\\res\\layout\\browser_actions_context_menu_page.xml"
+    },
+    {
+        "merged": "F:\\news\\news_app_flutter\\build\\firebase_auth\\intermediates\\res\\merged\\release\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\c6238d51cba38f08bc709d97c8f21b54\\core-1.6.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "F:\\news\\news_app_flutter\\build\\firebase_auth\\intermediates\\res\\merged\\release\\layout\\browser_actions_context_menu_row.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\5d66c0a4ab616e8fc3efefaad7f9748d\\browser-1.4.0\\res\\layout\\browser_actions_context_menu_row.xml"
+    },
+    {
+        "merged": "F:\\news\\news_app_flutter\\build\\firebase_auth\\intermediates\\res\\merged\\release\\layout\\custom_dialog.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\c6238d51cba38f08bc709d97c8f21b54\\core-1.6.0\\res\\layout\\custom_dialog.xml"
+    },
+    {
+        "merged": "F:\\news\\news_app_flutter\\build\\firebase_auth\\intermediates\\res\\merged\\release\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\c6238d51cba38f08bc709d97c8f21b54\\core-1.6.0\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "F:\\news\\news_app_flutter\\build\\firebase_auth\\intermediates\\res\\merged\\release\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\c6238d51cba38f08bc709d97c8f21b54\\core-1.6.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "F:\\news\\news_app_flutter\\build\\firebase_auth\\intermediates\\res\\merged\\release\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\c6238d51cba38f08bc709d97c8f21b54\\core-1.6.0\\res\\layout\\notification_template_icon_group.xml"
+    }
+]
